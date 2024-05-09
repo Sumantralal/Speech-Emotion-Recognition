@@ -19,7 +19,7 @@ Note: Make sure all the required python libraries are install.
 To run the app:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 
