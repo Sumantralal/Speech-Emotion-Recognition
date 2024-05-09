@@ -1,4 +1,4 @@
-# Chat with PDFs 📚
+# Speech Emotion Recognition 📚
 
 ## Introduction
 The is a Speech Emotion Recognition application, through which we can upload audio and predict the emotion of the audio.<br> The model is trained in jupyter notebook and saved as .h5 file.
